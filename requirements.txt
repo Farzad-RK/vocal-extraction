@@ -1,0 +1,4 @@
+numpy==1.22.3
+nussl==1.1.9
+scaper==1.6.5
+torch==1.11.0+cu113
